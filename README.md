@@ -12,4 +12,6 @@ Based on the schema below our Team had to select five tables (including the Obje
 
 ![2019-09-16_18-18](https://user-images.githubusercontent.com/22475630/64970664-f18d7700-d8ae-11e9-8cc5-7779e7a41c4c.png)
 
-# Below is depicted the complete ERD 
+Below is depicted the complete ERD 
+
+# ![2019-09-16_18-26](https://user-images.githubusercontent.com/22475630/64971604-9c526500-d8b0-11e9-9027-5532861fcae2.png)
