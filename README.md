@@ -8,3 +8,5 @@ The design decisions made by our team which includes five tables from the assign
 
 Based on the schema below our Team had to select five tables (including the Object Table Address)
 
+![2019-09-16_18-18](https://user-images.githubusercontent.com/22475630/64970664-f18d7700-d8ae-11e9-8cc5-7779e7a41c4c.png)
+
